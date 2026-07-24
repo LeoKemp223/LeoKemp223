@@ -7,7 +7,7 @@
 
 - 🔭 [我的频道](https://space.bilibili.com/383943678) <-这里可以看到我所有作品的视频
 - 🌱 [多合一开发板](https://x509p6c8to.feishu.cn/wiki/C5HHw0MqOii1d8kdziFcu1TlnJg) <-一套课程学完编程基础、数据结构、89C51、STM32
-- 🤔 [小智学长工具集](https://zutils.cn/) <-十年工程师的30+个必备工具集合，值得收藏使用
+- 🤔 [小智学长工具集](https://zutils.cn/) <-十年工程师的30+个必备工具集合，示波器仿真工具等，值得收藏使用
 - 🤔 [DevHard AI](https://www.hellozhi.com/) <-DevHard AI嵌入式开发工作台,AI驱动嵌入式开发
 - 😄 [桌面小屏幕](https://x509p6c8to.feishu.cn/docx/NQCTdjUFJoYoZ1xYHS9cIlbwnxh) <-手把手教你做一个软硬件一体的项目
 - 🌱 [AiPG多合一](https://x509p6c8to.feishu.cn/docx/LWnPdTtbAoOnS4x1TJdc7ub8noe) <-光随屏动 海豚机械臂合集
