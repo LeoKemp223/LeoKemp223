@@ -3,7 +3,7 @@
 好久不见啊。
 
 - 👨‍💻 500强资深开发 | 嵌入式全栈 | AI开发硬件探索
-- 💻 Linux智慧屏 蓝牙打印机 AI大豆 桌面屏幕 MBox 面包平台
+- 💻 Linux智慧屏 | DevHard AI | 词元造物 | 蓝牙打印机 | AI大豆 | 桌面屏幕 | MBox | 面包平台
 
 - 🔭 [我的频道](https://space.bilibili.com/383943678) <-这里可以看到我所有作品的视频
 - 🌱 [多合一开发板](https://x509p6c8to.feishu.cn/wiki/C5HHw0MqOii1d8kdziFcu1TlnJg) <-一套课程学完编程基础、数据结构、89C51、STM32
